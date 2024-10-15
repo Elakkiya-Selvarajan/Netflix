@@ -1,0 +1,46 @@
+
+.audio li{
+list-style-type: none;
+line-height: 35px;
+color: gray;
+font-size: 14px;
+cursor: pointer;
+}
+.audio{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-left: 270px;
+    padding-right: 300px;
+    margin-top: 150px;
+}
+.audio li:hover{
+    text-decoration: underline;
+}
+.num{
+    color: gray;
+    padding-left: 270px;
+    font-size: 14px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.service{
+    color: gray;
+    margin-left: 270px;
+    font-size: 14px;
+    margin-top: 20px;
+    background-color: black;
+    border: 1px solid gray;
+    padding: 10px;
+}
+.service:hover{
+    color: white;
+}
+.footicons{
+    color: white;
+    display: flex;
+    margin-left: 270px;
+    gap: 30px;
+    position: relative;
+    top: 125px;
+    font-size: 25px;
+}

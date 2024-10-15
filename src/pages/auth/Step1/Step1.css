@@ -1,0 +1,73 @@
+.choose1{
+    height: 440px;
+    color: black;
+    padding-bottom: 150px;
+    position: relative;
+    top:-200px;
+ 
+    
+}
+.no{
+    text-align: left;
+    padding-left: 650px;
+    font-size: 20px;
+    width: 290px;
+    
+
+}
+.plan{
+    font-size: 30px;
+    font-weight: 500;
+    padding-left:620px ;
+
+}
+.ste1{
+    font-size: 13px;
+    padding-left: 710px;
+    position: relative;
+    top: 130px;
+}
+.next{
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    height: 50px;
+    width: 350px;
+    border-radius: 5px;
+    position: relative;
+    left: 630px;
+    border: none;
+   
+}
+.next:hover{
+    background-color: rgb(213, 40, 40);
+
+}
+.no{
+    display: flex;
+}
+.no svg{
+    color: red;
+    height: 35px;
+    width: 35px;
+    padding-top:10px;
+    
+}
+.tickred{
+    line-height: 30px;
+    margin-left: -50px;
+    position: relative;
+    top: -550px;
+   
+    
+}
+.tick svg{
+    height: 60px;
+    width: 100px;
+    color: red;
+    margin-top: 150px;
+    position: relative;
+    top: -70px;
+    left:700px;
+
+}

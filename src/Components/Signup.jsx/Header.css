@@ -1,0 +1,26 @@
+.netlogo img{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    top: 5px;
+    left: -640px;
+}
+.signout button{
+    border: none;
+    background-color: white;
+    position: relative;
+    top: -60px;
+    left: 1380px;
+    font-size: 20px;
+   
+}
+.signout button:hover{
+    text-decoration: underline;
+}
+.main{
+    height: 100px;
+    background-color:white;
+    border-bottom: 1px solid rgb(230, 222, 222);
+    overflow-y: hidden;
+   
+}

@@ -1,0 +1,105 @@
+.secure{
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 650px;
+    
+}
+.now{
+    font-size: 18px;
+    width: 470px;
+    margin-left: 530px;
+    
+ 
+}
+.lock{
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+    border: 3px solid red;
+    margin-left: 740px;
+    margin-top: 50px;
+    
+   
+    
+}
+.lock svg{
+    height: 20px;
+    width: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: red;
+    
+    
+}
+.small{
+    border-radius: 30px;
+    width:1px;
+    height: 1px;
+    border: 2px solid red;
+    margin-left: 18px;
+    margin-top: -12px;
+    
+}
+.end{
+ margin-left:850px ;
+ font-size: 12px;
+
+}
+.end svg{
+    height: 15px;
+    width: 15px;
+    color: rgb(255, 183, 0);
+    margin-top: 2px;
+    
+
+}
+.box button{
+    width: 500px;
+    height: 60px;
+    background-color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 20px;
+    border: 2px solid rgb(207, 199, 199);
+    border-radius: 5px;
+    margin-left: 500px;
+    
+}
+.box button svg{
+    height: 30px;
+    width:30px;
+    margin-left: 430px;
+    margin-top: -30px;
+    
+}
+.choose .ste{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    
+
+}
+.plan{
+    padding-top: 120px;
+    
+}
+.now p{
+    text-align: center;
+    
+}
+.choose{
+    height: 440px;
+    color: black;
+    padding-bottom: 150px;
+    position: relative;
+    top:-10px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+.ste{
+    font-size: 13px;
+    padding-left: 700px;
+    margin-top: -100px;
+
+}

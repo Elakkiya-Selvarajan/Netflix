@@ -1,0 +1,30 @@
+
+.first{
+    width: 380px;
+}
+.butt1 select{
+    color: white;
+    background: transparent;
+    height: 30px;
+    width: 120px;
+    position: absolute;
+    top: 240px;
+    left: 140px;
+    padding-left: 30px;
+    border-radius: 5px;
+}
+.butt1 option{
+    color: black;
+}
+.butt1 svg{
+    color: white;
+    height: 15px;
+    width: 20px;
+    position: absolute;
+    left: 148px;
+    top: 248px;
+}
+.second,.third,.fourth{
+    position: relative;
+    left: -150px;
+}

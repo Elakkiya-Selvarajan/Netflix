@@ -1,0 +1,38 @@
+.things{
+    height: 100px;
+    width: 340px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    left: 285px;
+    top: -2700px;
+    border-radius: 10px;
+    border: 2px solid gray;
+    z-index: 2;
+}
+.things img{
+    height: 80px;
+    width: 60px;
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+.down{
+    position: relative;
+    top: -65px;
+    left:90px;
+    line-height: 3px;
+}
+.down .blue{
+    color: rgb(30, 114, 251);
+}
+.down p{
+    color: white;
+}
+.load{
+    color: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 40px;
+    left: 290px;
+}

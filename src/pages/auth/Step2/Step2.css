@@ -1,0 +1,137 @@
+ .step2{
+    text-align: left;
+    margin-left: 140px;
+    margin-top: 60px;
+} 
+.step2 p{
+    font-size: 12px;
+}
+.step2 .right{
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.premium{
+    height: 650px;
+    border: 1px solid rgb(109, 108, 108);
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.hdr{
+    border: 1px solid  rgb(109, 108, 108);
+    height: 100px;
+    width: 240px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left: 30px;
+    background: linear-gradient(to right , blue, rgb(149, 11, 149), red);
+    color: white;
+}
+.hdr2{
+    border: 1px solid  rgb(109, 108, 108);
+    height: 100px;
+    width: 240px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left: 30px;
+    background: linear-gradient(to right , blue, rgb(149, 11, 149));
+    color: white;
+}
+.hdr1{
+    border: 1px solid  rgb(109, 108, 108);
+    height: 100px;
+    width: 240px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: -10px;
+    text-align: left;
+    padding-left: 30px;
+    background: linear-gradient(to right , blue, rgb(69, 96, 186), rgb(40, 81, 195));
+    color: white;
+}
+.hdr3{
+    border: 1px solid  rgb(109, 108, 108);
+    height: 100px;
+    width: 240px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: left;
+    padding-left: 30px;
+    background: linear-gradient(to right , blue, rgb(69, 96, 186), rgb(40, 81, 195));
+    color: white;
+}
+.price .gray{
+    font-size: 12px;
+    color: rgb(109, 108, 108);
+    font-weight: 700;
+}
+.price{
+    text-align: left;
+    padding-left: 30px;
+}
+hr{
+    width: 250px;
+    position: relative;
+    left: -15px;
+}
+.price p{
+    font-size: 14px;
+    font-weight: 600;
+}
+.container{
+    display: flex;
+    gap: 30px;
+    padding-left: 100px;
+
+    height:800px;
+}
+.fullhd{
+    color: rgb(109, 108, 108);
+    padding-left: 110px;
+    width: 1250px;
+    font-size: 14px;
+    text-align: left;
+    margin-top: -80px;
+}
+.fullhd span{
+    color: blue;
+}
+.fullhd span:hover{
+    text-decoration: underline;
+}
+.next1{
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    height: 50px;
+    width: 450px;
+    border-radius: 5px;
+    position: relative;
+    left: 450px;
+    border: none;
+}
+.next1:hover{
+    background-color: rgb(213, 40, 40);
+}
+.nextt{
+    height: 150px;
+}
+.popular{
+    background-color: blueviolet;
+    color: white;
+    position: relative;
+    top: -20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 30px;
+    font-weight: 500;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-left: 105px;
+} 

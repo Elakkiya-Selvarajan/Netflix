@@ -1,0 +1,45 @@
+.black{
+    height:570px;
+    background-color: black;
+    border-bottom: 10px solid  rgb(37, 36, 36);
+    overflow-y: hidden;
+}
+.tv img{
+    position: absolute;
+    left: 750px;
+    top: 770px;
+    height:450px;
+    z-index:2;
+}
+.vid video{
+    position: absolute;
+    left: 830px;
+    top: 767px;
+    height: 437px;
+    width: 437px;
+    z-index: 1;
+}
+.tv .strange{
+    position: absolute;
+    top: 1330px;
+    left: 150px;
+}
+.tv .tv2{
+    position: absolute;
+    top: 1930px;
+    left: 750px;
+ }
+.vid .vide{
+    position: absolute;
+    left: 890px;
+    top: 1867px;
+    height: 437px;
+    width: 337px;
+    z-index: 1;
+}
+.tv .child{
+    position: absolute;
+    top: 2530px;
+    left: 150px;
+}
+

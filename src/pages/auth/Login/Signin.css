@@ -1,0 +1,95 @@
+.sign{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("C:\Netflix\netflix\src\assests\bannerHindi.jpg");
+    padding-top: 100px;
+    padding-left: 550px;
+    background-color: black;
+    color: white;
+    height:648px;
+    background-size: cover;
+    overflow-x: hidden;
+
+}
+.forms{
+    background-color:rgb(0,0,0,0.5);
+    height: 647px;
+    width: 450px;
+    text-align: left;
+    overflow-x: hidden;
+
+}
+
+.head{
+    font-size: 35px;
+    font-weight:bolder;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+ .forms input{
+    position: relative;
+    top: 30px;
+    left: 60px;
+    width: 300px; 
+}
+.forms p{
+    text-align: center;
+    position: relative;
+    top: 5px;
+    color: rgb(185, 183, 183);
+
+}
+.forms button{
+    width: 320px;
+    height: 40px;
+    position: relative;
+    left: 60px;
+    border-radius: 5px;
+}
+.forgot{
+    text-align: center;
+}
+.rem{
+    position: relative;
+    left: 80px;
+    top: 33px;
+}
+.new{
+    position: relative;
+    top: 50px;
+    left: 60px;
+    color: rgb(185, 183, 183);
+
+    
+}
+.new button{
+    font-weight:600;
+    border: none;
+    background-color: transparent;
+    color: white;
+    margin-left:-170px;
+}
+.page{
+    position: relative;
+    top: 80px;
+    left: 60px;
+    font-size: 13px;
+    color: rgb(185, 183, 183);
+
+}
+.page span{
+    color: blue;
+
+}
+.rem input{
+    height: 18px;
+    width: 18px;
+    margin-left: -85px;
+    margin-top: -10px;
+    
+}
+.use{
+    background-color: rgb(128, 128, 128,0.5);
+    color: white;
+}
+.use:hover{
+    background-color: rgba(115, 114, 114, 0.5);
+}

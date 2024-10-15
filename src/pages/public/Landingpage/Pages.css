@@ -1,0 +1,32 @@
+.freq{
+    background-color: black;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    margin-top: 0px;
+    padding-left: 500px;
+    font-size: 50px;
+   
+}
+ .asked{
+    background-color: black;
+  
+}
+
+.one{
+    height: 150px;
+    color: white;
+    border-bottom: 10px solid  rgb(37, 36, 36);
+    font-size: 22px;
+}
+.in{
+    position:relative;
+    top:-470px;
+}
+/* .wat{
+    background-color: black;
+    top: 10px;
+} */
+ .enter{
+    padding-left: 400px;
+ }

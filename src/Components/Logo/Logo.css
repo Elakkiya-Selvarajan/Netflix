@@ -1,0 +1,45 @@
+.log img{
+    height: 60px;
+    width: 200px;
+    position: absolute;
+    top: 20px;
+    left: 150px;
+}
+.but{
+    position: absolute;
+    top: 30px;
+    right: 280px;
+    gap: 10px;
+}
+.but select{
+    height: 35px;
+    width: 120px;
+    padding-left: 25px;
+    background: transparent;
+    color: white;
+    border-radius: 5px;
+}
+.but svg{
+    color: white;
+    height: 15px;
+    width: 20px;
+    position: absolute;
+    right: 92px;
+    top: 8px;
+}
+.but option{
+    color: black;
+}
+.red{
+    position: absolute;
+    top: 30px;
+    right: 180px;
+    height: 35px;
+    width: 80px;
+    border-radius:5px ;
+    background-color: red;
+    color: white;
+}
+.red:hover{
+    background-color: rgb(193,3,3);
+}

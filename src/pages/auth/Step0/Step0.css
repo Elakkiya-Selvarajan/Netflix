@@ -1,0 +1,52 @@
+.finish{
+    height: 440px;
+    color: black;
+    margin-top: 20px;
+    overflow-x: hidden;
+}
+.create{
+    padding-left: 590px;
+    font-size: 20px;
+    width: 324px;
+    text-align: center;
+}
+.set{
+    font-size: 30px;
+    font-weight: 500;
+    width: 300px;
+    padding-left: 600px;
+    text-align: center;
+
+}
+.topic{
+    font-size: 13px;
+    position: relative;
+    top: 20px;
+    left: 705px;
+
+}
+.next0{
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    height: 50px;
+    width: 350px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 580px;
+}
+.next0:hover{
+    background-color: rgb(213, 40, 40);
+
+}
+.comp{
+    padding-top: 80px;
+    padding-left: 620px;
+}
+.fliximage img{
+    height: 60px;
+    width: 200px;
+    position: relative;
+    top: -80px;
+    left: 50px;
+}

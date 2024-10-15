@@ -1,0 +1,100 @@
+.final{
+    background-color: black;
+    color: white;
+    height: 400px;
+    position: relative;
+    display: flex;
+    overflow-y: hidden;
+}
+.final  a{
+   color: white;
+   /* gap: 10px; */
+   list-style-type: none;
+}
+.first li{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    list-style-type: none;
+    line-height: 30px;
+    font-size: 14px;
+    text-align: left;
+}
+.second li{
+    position: relative;
+    top: 133px;
+    left: 200px;
+    list-style-type: none;
+    line-height: 30px;
+    font-size: 14px;
+    text-align: left;
+}
+.third li{
+    position: relative;
+    top: 133px;
+    left: 300px;
+    list-style-type: none;
+    line-height: 30px;
+    font-size: 14px;
+    text-align: left;
+
+}
+.fourth li{
+    position: relative;
+    top: 133px;
+    left: 400px;
+    list-style-type: none;
+    line-height: 30px;
+    font-size: 14px;
+    text-align: left;
+
+}
+.butt select{
+    color: white;
+    background: transparent;
+    height: 30px;
+    width: 120px;
+    position: absolute;
+    top: 290px;
+    left: 140px;
+    padding-left: 30px;
+    border-radius: 5px;
+}
+.butt option{
+    color: black;
+}
+.butt svg{
+    color: white;
+    height: 15px;
+    width: 20px;
+    position: absolute;
+    left: 148px;
+    top: 298px;
+}
+.first .para{
+    position: relative;
+    top: 143px;
+    left: 140px;
+    font-size: 14px;
+    color: rgb(185, 183, 183);
+}
+.first a{
+    color: rgb(185, 183, 183);
+    
+}
+.second a{
+    color: rgb(185, 183, 183);
+}
+.third a{
+    color: rgb(185, 183, 183);
+}
+.fourth a{
+    color: rgb(185, 183, 183);
+}
+.first p{
+    position: relative;
+    left: 140px;
+    top:109px;
+    font-size: 16px;
+    color: rgb(185, 183, 183);
+}
